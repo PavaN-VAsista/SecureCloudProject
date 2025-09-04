@@ -1,6 +1,6 @@
 # **Secure Cloud File Sharing with Blockchain-Based Audit Logs**
 
-This repository contains the source code for the MSc CyberSecurity dissertation project, "Secure Cloud File Sharing with Blockchain-Based Audit Logs," developed at the University of Birmingham.
+This repository contains the source code for the project, "Secure Cloud File Sharing with Blockchain-Based Audit Logs," developed at the University of Birmingham.
 
 This project is a full-stack, proof-of-concept secure file-sharing platform designed to address the trust and security limitations inherent in centralized cloud storage models. It implements a novel hybrid architecture that combines the performance and efficiency of centralized file storage with the trust, transparency, and immutability of a blockchain-ready audit log.
 
