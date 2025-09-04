@@ -39,7 +39,7 @@ Follow these instructions to get a local copy of the project up and running for 
 ### **Installation & Setup**
 
 1. **Clone the repository:**  
-   git clone \[https://git.cs.bham.ac.uk/projects-2024-25/pxb411\](https://git.cs.bham.ac.uk/projects-2024-25/pxb411)  
+   git clone \ https://github.com/PavaN-VAsista/SecureCloudProject 
    cd secure-file-sharing
 
 2. **Install Backend Dependencies:**  
